@@ -71,7 +71,8 @@ Ce projet est une application web PHP permettant de gérer un formulaire multi-�
 
 ## Aperçu du projet
 
-![Aperçu du formulaire](link-to-screenshot.png)
+![Aperçu du formulaire]![image](https://github.com/user-attachments/assets/0cd07903-c210-419a-a3e8-16cb0253e1fc)
+
 
 ## Structure du projet
 
