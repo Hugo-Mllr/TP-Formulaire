@@ -1,0 +1,48 @@
+body {
+    transition: background-color 0.3s, color 0.3s;
+}
+.text-dark-mode {
+    color: #ffffff !important; /* Texte clair pour mode sombre */
+}
+.text-light-mode {
+    color: #212529 !important; /* Texte foncé pour mode clair */
+}
+.theme-toggle {
+    position: fixed;
+    top: 10px;
+    right: 10px;
+}
+.bg-black {
+    background-color: #212529; /* Fond noir */
+    color: #f8f9fa; /* Texte blanc */
+}
+
+.bg-danger {
+    background-color: #ff4d4d !important;
+}
+
+/* Style pour le bouton de changement de thème */
+.theme-toggle {
+    position: absolute;
+    top: 20px;
+    right: 20px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+#theme-toggle-btn {
+    background: none;
+    border: none;
+    font-size: 1.5rem;
+    cursor: pointer;
+    color: #333;
+}
+
+#theme-icon {
+    display: inline;
+}
+
+#custom-element {
+    max-width: 800px; /* Limite la largeur du contenu centré */
+}

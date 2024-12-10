@@ -1,0 +1,30 @@
+body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    margin: 20px;
+    padding-left: 100px;
+}
+h1, h2, h3 {
+    text-align: left;
+}
+ul {
+    list-style-type: none;
+    padding: 0;
+}
+ul li {
+    margin-bottom: 10px;
+}
+h1 {
+text-align: center;
+margin: 20px 0; /* Ajustez la marge selon vos besoins */
+}
+
+p {
+    text-align: justify;
+    margin: 10px 0; /* Ajustez la marge selon vos besoins */
+}
+
+/* Appliquer une marge à tous les autres éléments */
+body {
+    margin: 20px; /* Marge globale autour du contenu */
+}
